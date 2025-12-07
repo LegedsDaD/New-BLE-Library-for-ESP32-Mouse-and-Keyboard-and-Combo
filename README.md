@@ -7,7 +7,7 @@
 
 > **Version:** 0.06 —
 >  Next Version 1.0 coming soon.  
-
+>  Version 1.0-LegedsDaD/New-Library-for-esp32-mouse-keyboard-and-Combo-Verion-1.0: Version 1.0 https://share.google/OSmd8E6kBMzhLc6Ea
 ## About
 
 This is a BLE (Bluetooth Low Energy) library for ESP32 that enables emulating a **mouse**, **keyboard**, or **combo HID device** — useful for projects requiring wireless HID input via ESP32.
