@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue?style=for-the-badge&logo=Espressif)](https://www.espressif.com)
 
 > **Version:** 0.06 —
->  Next Version 1.0 coming soon.  
+>  Next Version 1.7 coming soon  
 >  Version 1.0-LegedsDaD/New-Library-for-esp32-mouse-keyboard-and-Combo-Verion-1.0: Version 1.0 https://share.google/OSmd8E6kBMzhLc6Ea
 ## About
 
